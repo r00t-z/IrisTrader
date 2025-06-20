@@ -1,0 +1,6 @@
+Name     : marq zini
+Type     : Forex Hedged USD
+Server   : MetaQuotes-Demo
+Login    : 93786391
+Password : R-6iKkYf
+Investor : !3EgTeRk
